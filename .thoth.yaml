@@ -17,6 +17,12 @@ managers:
   - name: info
   - name: version
     configuration:
+      maintainers:
+        - codificat
+        - fridex
+        - goern
+        - harshad16
+        - mayaCostantini
       assignees:
         - sesheta
       labels: [bot]
